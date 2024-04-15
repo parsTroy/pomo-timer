@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/troyparsons/Developer/rider/study-time/study-time/obj/Debug/net8.0/scopedcss/projectbundle/study-time.bundle.scp.css",
+      "PackagePath": "staticwebassets/study-time.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/troyparsons/Developer/rider/study-time/study-time/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/troyparsons/Developer/rider/study-time/study-time/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/troyparsons/Developer/rider/study-time/study-time/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/troyparsons/Developer/rider/study-time/study-time/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.study-time.props",
+      "PackagePath": "build\\study-time.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.study-time.props",
+      "PackagePath": "buildMultiTargeting\\study-time.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.study-time.props",
+      "PackagePath": "buildTransitive\\study-time.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.study-time.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
